@@ -1,0 +1,17 @@
+# include<iostream>
+using namespace std;
+
+int main(){
+string name="Charles-Omosuwa";
+string department="Mechatronics";
+int level=300;
+string prefArea="Humanoidrobots";
+int projCompleted=0;
+
+cout<<"Name:"<<"\t"<<"name"<<"\n";
+cout<<"Department:"<<"\t"<<"department"<<"\n";
+cout<<"Level:"<<"\t"<<level<<"\n";
+cout<<"Preferred area of hardware:"<<"\t"<<"prefArea"<<"\n";
+cout<<"Projects completed:"<<"\t"<<projCompleted<<"\n";
+    return 0;
+}
